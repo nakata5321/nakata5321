@@ -1,4 +1,11 @@
-### Hi there 👋  My name is Makar
+# Hi there 👋  My name is Makar
+
+## Fraud warning!
+
+There have been cases of using this GitHub profile to forger a personality and ask for job pre-payment! Fraud use next telegram account - `@mak_devv`.
+
+I take no freelance jobs, before committing any cash transfer please contact me by an e-mail - makar5321@gmail.com .
+
 
 I am a master student at ITMO University.
 I am living in Saint-Petersburg, Russia. 
